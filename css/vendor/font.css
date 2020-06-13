@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('font/Nunito-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Nunito-Bold';
+    src: url('font/Nunito-Bold.ttf') format('truetype');
+} 
+@font-face {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("font/fontawesome-webfont.woff2") format("woff2");
+}
+  
+  .far,.fa {
+    font-family: 'FontAwesome';
+    font-weight: 400; }
+
+    
